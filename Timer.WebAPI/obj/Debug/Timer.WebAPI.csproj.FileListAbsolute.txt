@@ -1,0 +1,100 @@
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\csc.exe
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Timer.WebAPI.dll.config
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Timer.WebAPI.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Timer.WebAPI.pdb
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Http.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\WebGrease.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Http.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.dll
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.pdb
+C:\Users\Aleksandra Trela\Documents\visual studio 2015\Projects\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\csc.exe
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Timer.WebAPI.dll.config
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Timer.WebAPI.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Timer.WebAPI.pdb
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Http.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\WebGrease.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Http.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.dll
+C:\Users\Aleksandra Trela\GitHub\Timer\Timer.WebAPI\obj\Debug\Timer.WebAPI.pdb

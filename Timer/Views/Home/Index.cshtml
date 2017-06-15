@@ -1,0 +1,68 @@
+﻿@model global::Timer.Models.TimeKeeper
+
+@{
+    ViewBag.Title = "Timer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts {
+
+    @Scripts.Render("~/Scripts/jquery.signalR-1.2.2.min.js")
+    @Scripts.Render("~/Scripts/formatter.js")
+    @Scripts.Render("/signalr/hubs")
+    @Scripts.Render("~/bundles/index")
+
+}
+
+<br />
+<h2>Timer</h2>
+<br />
+<br />
+<p id="pActionInfo"></p>
+<br />
+
+<div class="modal fade" id="mdlElapsedTime" role="dialog">
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title"><strong>Time's up</strong></h4>
+            </div>
+            <div class="modal-body">
+                <p id="mdlElapsedTimeMessage"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="mdlError" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content panel-danger">
+            <div class="modal-header panel-heading">
+                <h4 class="modal-title">Error</h4>
+            </div>
+            <div class="modal-body">
+                <p>Please select the correct value</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<input type="number" class="form-control" id="inSelection">
+
+<input type="hidden" id="inMaxValue" value="@Model.MaxValue" />
+<input type="hidden" id="inMinValue" value="@Model.MinValue" />
+<br />
+<br />
+<input type="submit" id="btnSubmit" value="Start" class="btn btn-default" />
+
+<br />
+<br />
+<img src="~/Images/timer.png" alt="Image" />
